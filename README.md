@@ -13,6 +13,8 @@ This repository contains three laboratory exercises focused on microprocessors, 
 ### Lab 2: Logical Circuit Simulation
 - Extends Lab 1's work to simulate logical circuits, assess dynamic power consumption, and calculate switching activities.
 - Introduces NOT gate simulation and requires code files, graphical data representations.
+
+
 ![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/968e2e77-7e1c-4983-b8b5-a19920a94ca2)
 
 ### Lab 3: Signal Probability Calculation
