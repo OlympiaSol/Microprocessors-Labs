@@ -1,20 +1,21 @@
-# Microprocessors Lab Exercises README
+# Microprocessor Lab Exercises README
 
 ## Overview
-This repository hosts three lab exercises focusing on microprocessors, specifically tailored for understanding dynamic power consumption and switching activity through practical implementation.
+This repository contains three laboratory exercises focused on microprocessors, emphasizing Monte Carlo simulations, logical circuit simulation for dynamic power consumption analysis, and signal probability calculation in logical circuits.
 
-## Lab Exercises
+## Lab Descriptions
 
-### Lab 1: Monte Carlo Simulation for π Calculation and Switching Activity
-- Implement a Monte Carlo simulation to calculate π using a square and an inscribed circle.
-- Develop a program to compute the switching activity of a four-input OR gate using Monte Carlo simulation.
+### Lab 1: Monte Carlo Simulations
+- Implements functions to calculate π and switching activities in logic gates using Monte Carlo methods.
+- Requires execution with specific inputs, code documentation, and graphical results representation.
+- Preferred languages: Octave
 
-### Lab 2: Signal Probabilities Calculation
-- Complete and implement functions for calculating signal probabilities for 2-input logic gates.
-- Develop functions from scratch for 3-input and N-input logic gates signal probabilities and switching activity.
- ![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/b3f06cd4-be66-4cb6-9d54-ae2644d62f15)
+### Lab 2: Logical Circuit Simulation
+- Extends Lab 1's work to simulate logical circuits, assess dynamic power consumption, and calculate switching activities.
+- Introduces NOT gate simulation and requires code files, graphical data representations.
+![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/968e2e77-7e1c-4983-b8b5-a19920a94ca2)
 
+### Lab 3: Signal Probability Calculation
+- Develops a simulation model for calculating signal probabilities in logical circuits, requiring model implementation, input detection methods, and "testbench" routine verification.
+- Emphasizes accuracy verification against previous exercises.
 
-### Lab 3: Implementation in Octave
-- Opt to use Octave for implementing the given tasks.
-- Focus on editing preferences in Octave for correct display of Greek characters in comments
