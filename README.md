@@ -15,6 +15,6 @@ This repository hosts three lab exercises focusing on microprocessors, specifica
  ![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/b3f06cd4-be66-4cb6-9d54-ae2644d62f15)
 
 
-### Lab 3: Implementation in Octave, C, or C++
+### Lab 3: Implementation in Octave
 - Opt to use Octave for implementing the given tasks.
 - Focus on editing preferences in Octave for correct display of Greek characters in comments
