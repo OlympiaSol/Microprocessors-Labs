@@ -12,7 +12,7 @@ This repository hosts three lab exercises focusing on microprocessors, specifica
 ### Lab 2: Signal Probabilities Calculation
 - Complete and implement functions for calculating signal probabilities for 2-input logic gates.
 - Develop functions from scratch for 3-input and N-input logic gates signal probabilities and switching activity.
-- ![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/b3f06cd4-be66-4cb6-9d54-ae2644d62f15)
+ ![image](https://github.com/OlympiaSol/Microprocessors-Labs/assets/115394765/b3f06cd4-be66-4cb6-9d54-ae2644d62f15)
 
 
 ### Lab 3: Implementation in Octave, C, or C++
