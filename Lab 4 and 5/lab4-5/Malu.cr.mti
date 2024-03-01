@@ -1,0 +1,64 @@
+C:/altera/13.0sp1/Ex4/ex4_2/cputb.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/cputb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/alutb2.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/alutb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb2
+
+Top level modules:
+	MCPU_Alutb2
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/alu.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alu
+
+Top level modules:
+	MCPU_Alu
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/registerfiletb.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/registerfiletb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Registerfiletb
+
+Top level modules:
+	MCPU_Registerfiletb
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/ramcontrollertb1.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/ramcontrollertb1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Ramctb1
+
+Top level modules:
+	MCPU_Ramctb1
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/cpu.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/cpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU
+
+Top level modules:
+	MCPU
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/ramcontroller.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/ramcontroller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_RAMController
+
+Top level modules:
+	MCPU_RAMController
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/registerfile.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/registerfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Registerfile
+
+Top level modules:
+	MCPU_Registerfile
+
+} {} {}} C:/altera/13.0sp1/Ex4/ex4_2/alutb1.v {1 {vlog -work work C:/altera/13.0sp1/Ex4/ex4_2/alutb1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb1
+
+Top level modules:
+	MCPU_Alutb1
+
+} {} {}}

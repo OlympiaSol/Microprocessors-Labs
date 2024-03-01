@@ -1,0 +1,143 @@
+C:/altera/13.0sp1/askisi4/ramcontroller.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/ramcontroller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_RAMController
+
+Top level modules:
+	MCPU_RAMController
+
+} {} {}} C:/altera/13.0sp1/askisi4/registerfile.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/registerfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Registerfile
+
+Top level modules:
+	MCPU_Registerfile
+
+} {} {}} C:/altera/13.0sp1/askisi4/d1s4812tb.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/d1s4812tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4812tb
+
+Top level modules:
+	d1s4812tb
+
+} {} {}} C:/altera/13.0sp1/askisi4/6_1.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/6_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/ramtb.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/ramtb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_RAMControllertb
+
+Top level modules:
+	MCPU_RAMControllertb
+
+} {} {}} C:/altera/13.0sp1/askisi4/cputb.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/cputb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/cputb2.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/cputb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/ramtb2.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/ramtb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_RAMControllertb
+
+Top level modules:
+	MCPU_RAMControllertb
+
+} {} {}} C:/altera/13.0sp1/askisi4/cputb3.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/cputb3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/alu.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alu
+
+Top level modules:
+	MCPU_Alu
+
+} {} {}} C:/altera/13.0sp1/askisi4/registerfiletb.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/registerfiletb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Registerfiletb
+
+Top level modules:
+	MCPU_Registerfiletb
+
+} {} {}} C:/altera/13.0sp1/askisi4/ramcontrollertb1.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/ramcontrollertb1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Ramctb1
+
+Top level modules:
+	MCPU_Ramctb1
+
+} {} {}} C:/altera/13.0sp1/askisi4/d1s4812.v {2 {vlog -work work C:/altera/13.0sp1/askisi4/d1s4812.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4812
+** Warning: C:/altera/13.0sp1/askisi4/d1s4812.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	d1s4812
+
+} {} {}} C:/altera/13.0sp1/askisi4/d1s4812tb2.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/d1s4812tb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4812tb2
+
+Top level modules:
+	d1s4812tb2
+
+} {} {}} C:/altera/13.0sp1/askisi4/cpu.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/cpu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU
+
+Top level modules:
+	MCPU
+
+} {} {}} C:/altera/13.0sp1/askisi4/alutb.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/alutb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb
+
+Top level modules:
+	MCPU_Alutb
+
+} {} {}} C:/altera/13.0sp1/askisi4/6_2A.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/6_2A.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/alutb1.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/alutb1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb1
+
+Top level modules:
+	MCPU_Alutb1
+
+} {} {}} C:/altera/13.0sp1/askisi4/6_2B.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/6_2B.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPUtb
+
+Top level modules:
+	MCPUtb
+
+} {} {}} C:/altera/13.0sp1/askisi4/alutb2.v {1 {vlog -work work C:/altera/13.0sp1/askisi4/alutb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MCPU_Alutb2
+
+Top level modules:
+	MCPU_Alutb2
+
+} {} {}}
