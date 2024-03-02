@@ -21,3 +21,21 @@ This repository contains three laboratory exercises focused on microprocessors, 
 - Develops a simulation model for calculating signal probabilities in logical circuits, requiring model implementation, input detection methods, and "testbench" routine verification.
 - Emphasizes accuracy verification against previous exercises.
 
+### Lab 4: Verilog and Modelsim Simulation
+- Focuses on the design and simulation of a MicroCPU (MCPU) using Verilog.
+- Exercise 4.1: Replicate and modify an example module, create a new testbench.
+- Exercise 4.2: Familiarize with MCPU's ALU, modify a testbench.
+- Exercise 4.3: Create a testbench for memory operations.
+- Exercise 4.4: Expand MCPU to support 16 registers, incorporate student's ID into simulation waveforms.
+  
+### Lab 5: Enhancing MCPU Functionality
+- **Exercise 5.1: Adding New Instructions**
+  - Introduces Logical Shift Left (LSL) and Logical Shift Right (LSR) instructions.
+- **Exercise 5.2: Implementing a Program**
+  - Implements a program to calculate the Hailstone sequence, demonstrating the use of new instructions and bitwise logic operations.
+ 
+    
+Each lab builds on the knowledge and skills developed in the previous exercises, culminating in a comprehensive understanding of microprocessors, Verilog programming, and simulation techniques.
+
+
+
